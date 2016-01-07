@@ -1,0 +1,33 @@
+C:\Users\Marcel\Desktop\Opdracht2\MIT2Questions\QuestionClient\bin\Debug\QuestionClient.exe.config
+C:\Users\Marcel\Desktop\Opdracht2\MIT2Questions\QuestionClient\bin\Debug\QuestionClient.exe
+C:\Users\Marcel\Desktop\Opdracht2\MIT2Questions\QuestionClient\bin\Debug\QuestionClient.pdb
+C:\Users\Marcel\Desktop\Opdracht2\MIT2Questions\QuestionClient\bin\Debug\QuestionContracts.dll
+C:\Users\Marcel\Desktop\Opdracht2\MIT2Questions\QuestionClient\bin\Debug\QuestionContracts.pdb
+C:\Users\Marcel\Desktop\Opdracht2\MIT2Questions\QuestionClient\obj\Debug\QuestionClient.csprojResolveAssemblyReference.cache
+C:\Users\Marcel\Desktop\Opdracht2\MIT2Questions\QuestionClient\obj\Debug\QuestionClient.Form1.resources
+C:\Users\Marcel\Desktop\Opdracht2\MIT2Questions\QuestionClient\obj\Debug\QuestionClient.Properties.Resources.resources
+C:\Users\Marcel\Desktop\Opdracht2\MIT2Questions\QuestionClient\obj\Debug\QuestionClient.csproj.GenerateResource.Cache
+C:\Users\Marcel\Desktop\Opdracht2\MIT2Questions\QuestionClient\obj\Debug\QuestionClient.exe
+C:\Users\Marcel\Desktop\Opdracht2\MIT2Questions\QuestionClient\obj\Debug\QuestionClient.pdb
+D:\Dropbox\Shares\MIT2\Opdrachten\Week 6\MIT2Questions\QuestionClient\bin\Debug\QuestionClient.exe.config
+D:\Dropbox\Shares\MIT2\Opdrachten\Week 6\MIT2Questions\QuestionClient\obj\Debug\QuestionClient.exe
+D:\Dropbox\Shares\MIT2\Opdrachten\Week 6\MIT2Questions\QuestionClient\obj\Debug\QuestionClient.pdb
+C:\Users\Marcel\Dropbox\MIT2\Opdrachten\Week 6\MIT2Questions\QuestionClient\bin\Debug\QuestionClient.exe.config
+C:\Users\Marcel\Dropbox\MIT2\Opdrachten\Week 6\MIT2Questions\QuestionClient\obj\Debug\QuestionClient.exe
+C:\Users\Marcel\Dropbox\MIT2\Opdrachten\Week 6\MIT2Questions\QuestionClient\obj\Debug\QuestionClient.pdb
+D:\Dropbox\Shares\MIT2\Opdrachten\Week 6\MIT2Questions\QuestionClient\bin\Debug\QuestionClient.exe
+D:\Dropbox\Shares\MIT2\Opdrachten\Week 6\MIT2Questions\QuestionClient\bin\Debug\QuestionClient.pdb
+D:\Dropbox\Shares\MIT2\Opdrachten\Week 6\MIT2Questions\QuestionClient\bin\Debug\QuestionContracts.dll
+D:\Dropbox\Shares\MIT2\Opdrachten\Week 6\MIT2Questions\QuestionClient\bin\Debug\QuestionContracts.pdb
+D:\Dropbox\Shares\MIT2\Opdrachten\Week 6\MIT2Questions\QuestionClient\obj\Debug\QuestionClient.csprojResolveAssemblyReference.cache
+D:\Dropbox\Shares\MIT2\Opdrachten\Week 6\MIT2Questions\QuestionClient\obj\Debug\QuestionClient.Form1.resources
+D:\Dropbox\Shares\MIT2\Opdrachten\Week 6\MIT2Questions\QuestionClient\obj\Debug\QuestionClient.Properties.Resources.resources
+D:\Dropbox\Shares\MIT2\Opdrachten\Week 6\MIT2Questions\QuestionClient\obj\Debug\QuestionClient.csproj.GenerateResource.Cache
+C:\Users\Marcel\Dropbox\MIT2\Opdrachten\Week 6\MIT2Questions\QuestionClient\bin\Debug\QuestionClient.exe
+C:\Users\Marcel\Dropbox\MIT2\Opdrachten\Week 6\MIT2Questions\QuestionClient\bin\Debug\QuestionClient.pdb
+C:\Users\Marcel\Dropbox\MIT2\Opdrachten\Week 6\MIT2Questions\QuestionClient\bin\Debug\QuestionContracts.dll
+C:\Users\Marcel\Dropbox\MIT2\Opdrachten\Week 6\MIT2Questions\QuestionClient\bin\Debug\QuestionContracts.pdb
+C:\Users\Marcel\Dropbox\MIT2\Opdrachten\Week 6\MIT2Questions\QuestionClient\obj\Debug\QuestionClient.csprojResolveAssemblyReference.cache
+C:\Users\Marcel\Dropbox\MIT2\Opdrachten\Week 6\MIT2Questions\QuestionClient\obj\Debug\QuestionClient.Form1.resources
+C:\Users\Marcel\Dropbox\MIT2\Opdrachten\Week 6\MIT2Questions\QuestionClient\obj\Debug\QuestionClient.Properties.Resources.resources
+C:\Users\Marcel\Dropbox\MIT2\Opdrachten\Week 6\MIT2Questions\QuestionClient\obj\Debug\QuestionClient.csproj.GenerateResource.Cache

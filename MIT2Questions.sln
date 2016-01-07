@@ -1,0 +1,64 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuestionServer", "QuestionServer\QuestionServer.csproj", "{5577144C-576A-4F80-87A9-E948A40FE6CB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuestionClient", "QuestionClient\QuestionClient.csproj", "{A82C3057-5B9B-42F8-98D5-28D0803A825E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuestionContracts", "QuestionContracts\QuestionContracts.csproj", "{6706D51F-46EB-4CC6-9E88-7C1D590A9C2D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityBase", "EntityBase\EntityBase.csproj", "{76B80CF9-2FCF-45F1-877C-FC0246666960}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Cloud", "Cloud", "{1FDEA695-6D39-4DCC-8D2F-972C913D1CB4}"
+EndProject
+Project("{CC5FD16D-436D-48AD-A40C-5A424C6E3E79}") = "QuestionCloudService", "QuestionCloudService\QuestionCloudService.ccproj", "{ECB78847-1F69-4660-A7BF-EBC714145C19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCFServiceWebRole", "WCFServiceWebRole1\WCFServiceWebRole.csproj", "{3CB38D89-3CC5-4A65-A1D6-CB2D8F7279DF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Forms", "Forms", "{9A1883C8-FDCB-4FEB-BD00-63F4C7484D5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5577144C-576A-4F80-87A9-E948A40FE6CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5577144C-576A-4F80-87A9-E948A40FE6CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5577144C-576A-4F80-87A9-E948A40FE6CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5577144C-576A-4F80-87A9-E948A40FE6CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A82C3057-5B9B-42F8-98D5-28D0803A825E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A82C3057-5B9B-42F8-98D5-28D0803A825E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A82C3057-5B9B-42F8-98D5-28D0803A825E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A82C3057-5B9B-42F8-98D5-28D0803A825E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6706D51F-46EB-4CC6-9E88-7C1D590A9C2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6706D51F-46EB-4CC6-9E88-7C1D590A9C2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6706D51F-46EB-4CC6-9E88-7C1D590A9C2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6706D51F-46EB-4CC6-9E88-7C1D590A9C2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76B80CF9-2FCF-45F1-877C-FC0246666960}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76B80CF9-2FCF-45F1-877C-FC0246666960}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76B80CF9-2FCF-45F1-877C-FC0246666960}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76B80CF9-2FCF-45F1-877C-FC0246666960}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECB78847-1F69-4660-A7BF-EBC714145C19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECB78847-1F69-4660-A7BF-EBC714145C19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECB78847-1F69-4660-A7BF-EBC714145C19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECB78847-1F69-4660-A7BF-EBC714145C19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CB38D89-3CC5-4A65-A1D6-CB2D8F7279DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CB38D89-3CC5-4A65-A1D6-CB2D8F7279DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CB38D89-3CC5-4A65-A1D6-CB2D8F7279DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CB38D89-3CC5-4A65-A1D6-CB2D8F7279DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{5577144C-576A-4F80-87A9-E948A40FE6CB} = {9A1883C8-FDCB-4FEB-BD00-63F4C7484D5D}
+		{A82C3057-5B9B-42F8-98D5-28D0803A825E} = {9A1883C8-FDCB-4FEB-BD00-63F4C7484D5D}
+		{6706D51F-46EB-4CC6-9E88-7C1D590A9C2D} = {9A1883C8-FDCB-4FEB-BD00-63F4C7484D5D}
+		{76B80CF9-2FCF-45F1-877C-FC0246666960} = {9A1883C8-FDCB-4FEB-BD00-63F4C7484D5D}
+		{ECB78847-1F69-4660-A7BF-EBC714145C19} = {1FDEA695-6D39-4DCC-8D2F-972C913D1CB4}
+		{3CB38D89-3CC5-4A65-A1D6-CB2D8F7279DF} = {1FDEA695-6D39-4DCC-8D2F-972C913D1CB4}
+	EndGlobalSection
+EndGlobal
